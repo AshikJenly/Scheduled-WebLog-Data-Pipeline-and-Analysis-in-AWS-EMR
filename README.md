@@ -1,5 +1,3 @@
-Certainly, here's your content in a clean and visually appealing Markdown format:
-
 ---
 
 # Scheduled WebLog Data Pipeline and Analysis in AWS EMR
@@ -22,7 +20,7 @@ Process weblog data to extract insights using the AWS EMR cluster computing serv
 - Python
 
 ## Project Architecture
-![Project Architecture](Screenshot from 2023-10-11 21-46-52.png)
+![Screenshot from 2023-10-12 00-18-57](https://github.com/AshikJenly/Weekly-Scheduled-WebLog-Data-Pipeline-and-Analysis-in-AWS-EMR/assets/116492348/696ed486-bea1-4899-a5eb-c9fed8f9fabf)
 
 ## Process DAG
 ![Screenshot from 2023-10-11 21-46-52](https://github.com/AshikJenly/Weekly-Scheduled-WebLog-Data-Pipeline-and-Analysis-in-AWS-EMR/assets/116492348/b5c6b233-76ee-43d2-ba83-9183e610d6e1)
