@@ -2,7 +2,7 @@ Certainly, here's your content in a clean and visually appealing Markdown format
 
 ---
 
-# Weekly Scheduled WebLog Data Pipeline and Analysis in AWS EMR
+# Scheduled WebLog Data Pipeline and Analysis in AWS EMR
 
 Process weblog data to extract insights using the AWS EMR cluster computing service with Apache Spark and schedule weekly log analysis of data from Amazon S3.
 
@@ -25,7 +25,7 @@ Process weblog data to extract insights using the AWS EMR cluster computing serv
 ![Project Architecture](Screenshot from 2023-10-11 21-46-52.png)
 
 ## Process DAG
-![Process DAG](Screenshot from 2023-10-11 21-46-52.png)
+![Screenshot from 2023-10-11 21-46-52](https://github.com/AshikJenly/Weekly-Scheduled-WebLog-Data-Pipeline-and-Analysis-in-AWS-EMR/assets/116492348/b5c6b233-76ee-43d2-ba83-9183e610d6e1)
 
 ## How to Execute the Project
 
