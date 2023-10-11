@@ -1,7 +1,10 @@
-```markdown
+Certainly, here's your content in a clean and visually appealing Markdown format:
+
+---
+
 # Weekly Scheduled WebLog Data Pipeline and Analysis in AWS EMR
 
-Processing weblog data to extract insights using AWS EMR cluster computing service with Apache Spark, and scheduling weekly log analysis of data from Amazon S3.
+Process weblog data to extract insights using the AWS EMR cluster computing service with Apache Spark and schedule weekly log analysis of data from Amazon S3.
 
 ## Tools Used
 
@@ -13,7 +16,7 @@ Processing weblog data to extract insights using AWS EMR cluster computing servi
 
 ### Big Data Computation Environment
 - AWS EMR (Data Processing)
-- EC2 (ubuntu) (Scheduling and Automation)
+- EC2 (Ubuntu) (Scheduling and Automation)
 
 ### Programming Language
 - Python
@@ -26,7 +29,7 @@ Processing weblog data to extract insights using AWS EMR cluster computing servi
 
 ## How to Execute the Project
 
-### Step 1: Create an AWS EMR instance
+### Step 1: Create an AWS EMR Instance
 - Refer to AWS documentation for guidance.
 
 ### Step 2: Create an EC2 Virtual Machine (Linux)
@@ -35,7 +38,7 @@ Processing weblog data to extract insights using AWS EMR cluster computing servi
 ### Step 3: Set up an AWS S3 Bucket
 - Refer to AWS documentation for guidance.
 
-### Step 4: In the Virtual Machine
+### Step 4: On the Virtual Machine
 - Install Apache Airflow
     - Start Airflow
       ```bash
@@ -52,4 +55,5 @@ In your browser, access the following path:
 ```
 
 Make sure to replace `/path/to` with the appropriate path.
-```
+
+---
