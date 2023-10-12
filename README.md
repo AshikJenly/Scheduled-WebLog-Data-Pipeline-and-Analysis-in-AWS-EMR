@@ -20,10 +20,11 @@ Process weblog data to extract insights using the AWS EMR cluster computing serv
 - Python
 
 ## Project Architecture
-![Screenshot from 2023-10-12 00-18-57](https://github.com/AshikJenly/Weekly-Scheduled-WebLog-Data-Pipeline-and-Analysis-in-AWS-EMR/assets/116492348/696ed486-bea1-4899-a5eb-c9fed8f9fabf)
+![Screenshot from 2023-10-12 00-18-57](https://github.com/AshikJenly/Scheduled-WebLog-Data-Pipeline-and-Analysis-in-AWS-EMR/assets/116492348/23d7f563-2ad4-4373-90b0-b02ebf0bbb37)
+
 
 ## Process DAG
-![Screenshot from 2023-10-11 21-46-52](https://github.com/AshikJenly/Weekly-Scheduled-WebLog-Data-Pipeline-and-Analysis-in-AWS-EMR/assets/116492348/b5c6b233-76ee-43d2-ba83-9183e610d6e1)
+![Screenshot from 2023-10-11 21-46-52](https://github.com/AshikJenly/Scheduled-WebLog-Data-Pipeline-and-Analysis-in-AWS-EMR/assets/116492348/6561440a-b19a-4ed5-93ff-77162eb57e94)
 
 ## How to Execute the Project
 
